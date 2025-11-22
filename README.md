@@ -25,7 +25,8 @@ Motto: .................... Build. Break. Learn. Repeat.
 <h4>Let's connect!</h4>
 <a href="https://www.linkedin.com/in/ashhenna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashhenna" height="30" width="40" /></a>
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&color=0077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashhenna%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhenna/)
+
 
 ---
 
