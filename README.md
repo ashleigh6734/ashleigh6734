@@ -1,27 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C815A9&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB+)](https://git.io/typing-svg)
 
-I’m Emily, an Osteopath turned Software Engineer.
+I’m Ashleigh, Pharmacist and Software Engineer.
 
-My journey began by treating musculoskeletal injuries and helping people move pain-free. However, my passion for problem-solving and technology soon led me to the world of software engineering. I decided to dive in, committing to studying Software Engineering. Now, I’m focused on building web applications, learning new technologies, and growing in the field.
-
----
-
-### 💫About Me
-
-<img align="right" height="160px" width="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario working overtime"></a>
-
-- 👨‍💻 I'm currently enrolled with Holberton School's Cohort 27
-- 👾 I enjoy a mix of playing video games, board games, doing Pilates and hiking
-- 🌏 Fun fact: I'm originally from Malaysia, home of the King of Fruits—the Durian, known for its strong smell and creamy texture. Some love it, some hate it
-- 🐾 I’m a first time puppy mum now!
-- ☕ Let's get in touch! [LinkedIn](https://www.linkedin.com/in/emily-csh/)
-
-<h4>Connect with me:</h4>
-<a href="https://linkedin.com/in/emily-csh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily-csh" height="30" width="40" /></a>
+From pills to pointers. Now building shells, breaking things and debugging my life one printf at a time.
 
 ---
 
-### 👩🏻‍💻Tech Stack
+### 👨‍💻 About Me
+
+
+
+
+<h4>Let's connect!</h4>
+<a href="https://www.linkedin.com/in/ashhenna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashhenna" height="30" width="40" /></a>
+
+---
+
+### Tech Stack
 
 <details open>
 <summary><b>Frontend Development</b></summary>
