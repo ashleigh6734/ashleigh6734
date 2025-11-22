@@ -31,4 +31,6 @@ Motto: .................... Build. Break. Learn. Repeat.
 ### GitHub Stats :
 
 ![ashleigh6734's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleigh6734&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![ashleigh6734's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleigh6734&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 ---
