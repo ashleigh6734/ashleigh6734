@@ -23,20 +23,12 @@ Motto: .................... Build. Break. Learn. Repeat.
 
 
 <h4>Let's connect!</h4>
-<a href="https://www.linkedin.com/in/ashhenna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashhenna" height="30" width="40" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhenna/)
 
-
 ---
 
-### 📊GitHub Stats :
+### GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=by-emrii&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![ashleigh6734's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleigh6734&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
-
-### 💌Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<br>
