@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C815A9&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB+)](https://git.io/typing-svg)
 
-I’m Ashleigh, Pharmacist and Software Engineer.
+I’m Ashleigh, Pharmacist and Full-Stack Software Engineer.
 
 From pills to pointers. Now building shells, breaking things and debugging my life one printf at a time.
 
@@ -10,10 +10,10 @@ From pills to pointers. Now building shells, breaking things and debugging my li
 
 ```bash
 user@ashleigh:~$ profile
-Frontend.Dev: ............ HTML, CSS, JavaScript
+Frontend.Dev: ............ HTML5, CSS3, JavaScript, React.js
 Backend.Dev: ............. C, Python, Flask
 Databases: ............... SQLite, SQLAlchemy
-Tools.Workflow: .......... GitHub, Postman, Docker
+Tools.Workflow: .......... GitHub, Postman, Docker, Trello
 
 Interests.Software: ....... Systems Programming, Web Dev, Cybersecurity
 Interests.Hobbies: ........ Piano, Gaming, Gym
