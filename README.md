@@ -15,7 +15,7 @@ Backend.Dev: ............. C, Python, Flask
 Databases: ............... SQLite, SQLAlchemy
 Tools.Workflow: .......... GitHub, Postman, Docker, Trello, Render
 
-Interests.Software: ....... Full-Stack Engineering, Cybersecurity, Cloud
+Interests.Tech: ........... Full-Stack Engineering, Cybersecurity, Cloud
 Interests.Hobbies: ........ Piano, Gaming, Gym
 
 Quote: .................... “The happiness of your life depends upon the quality of your thoughts.”
