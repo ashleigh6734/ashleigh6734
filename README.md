@@ -19,7 +19,6 @@ Interests.Software: ....... Full-Stack Engineering, Cybersecurity, Cloud
 Interests.Hobbies: ........ Piano, Gaming, Gym
 
 Quote: .................... “The happiness of your life depends upon the quality of your thoughts.”
-― Marcus Aurelius
 ```
 
 
